@@ -1,2 +1,2 @@
 # Cognizant_api
-api server Nidejs
+api server Nodejs
